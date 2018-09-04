@@ -1,0 +1,1059 @@
+{
+    "data": [
+        [
+            "NONE",
+            "INITIAL START UP",
+            "2017-02-28 12:12:40"
+        ]
+   ,[
+    "Molina, Robertos",
+    " Archived the audit logs.",
+    "2017-02-28 12:12:40"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-28 12:21:19"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 12:25:00"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 12:36:42"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 12:47:24"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 12:57:12"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 12:57:40"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 12:57:48"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 13:04:24"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 13:08:22"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 13:09:05"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 13:09:10"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 13:12:44"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 13:20:45"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 13:34:52"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 13:39:26"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 13:59:58"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 14:08:56"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:09:05"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:10:46"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:19:46"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:23:22"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 14:28:06"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 14:37:12"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 14:42:15"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 14:44:40"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 14:52:10"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 14:53:17"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:53:35"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:53:38"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:53:54"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 14:54:02"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 14:56:59"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 15:16:43"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 15:16:54"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 15:17:04"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 15:24:01"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 15:25:37"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 15:29:29"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 15:29:49"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 15:34:52"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 15:35:46"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 15:36:03"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 1.",
+    "2017-02-28 15:36:07"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 15:39:14"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 15:43:42"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 15:44:12"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 15:44:32"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 15:44:45"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 16:00:02"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 16:04:26"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 16:12:38"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 16:12:50"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 16:12:56"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 16:12:57"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 16:32:51"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 16:37:22"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 16:37:28"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 16:38:46"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 16:38:47"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 19:27:14"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 19:27:32"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 19:27:42"
+]
+,[
+    "Molina, Eom",
+    " Update business type ID 5.",
+    "2017-02-28 19:28:36"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 3.",
+    "2017-02-28 19:37:18"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 2.",
+    "2017-02-28 19:39:01"
+]
+,[
+    "Molina, Eom",
+    " Add Product named Grass Scissor.",
+    "2017-02-28 19:40:17"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 19:55:02"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 19:56:52"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 19:56:57"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 19:57:10"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 19:57:12"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 19:57:22"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 19:57:27"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 19:57:35"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 19:57:36"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 19:57:46"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 19:57:58"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 19:58:02"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 19:58:08"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 19:58:27"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 19:58:29"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 19:59:15"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 19:59:20"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 20:01:28"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 20:01:30"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-02-28 20:01:47"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 1.",
+    "2017-02-28 20:02:02"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 7.",
+    "2017-02-28 20:02:19"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 3.",
+    "2017-02-28 20:02:37"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 20:03:05"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 20:03:06"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 20:03:08"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 20:03:18"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 20:03:43"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 20:03:45"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 20:04:00"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 20:04:02"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 20:08:56"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 08:27:02"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-03-01 08:27:06"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-03-01 08:27:11"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-03-01 08:27:50"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 08:27:51"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-03-01 08:33:12"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 6.",
+    "2017-03-01 08:33:22"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 08:41:20"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 08:52:28"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 7.",
+    "2017-03-01 08:52:50"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 7.",
+    "2017-03-01 09:02:06"
+]
+,[
+    "Molina, Eom",
+    " Update Branch ID 5.",
+    "2017-03-01 09:08:09"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 09:11:38"
+]
+,[
+    "Molina, Eom",
+    " Update Branch ID 5.",
+    "2017-03-01 09:12:04"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 09:16:04"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 09:57:20"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 14:01:03"
+]
+,[
+    "Molina, Eom",
+    " Add product sub category named ddd.",
+    "2017-03-01 14:01:23"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-03-01 14:02:01"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-03-01 14:04:57"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 4.",
+    "2017-03-01 14:12:55"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 7.",
+    "2017-03-01 14:13:35"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-01 23:35:00"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-01 23:35:32"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-02 16:44:14"
+]
+,[
+    "Admin, Admin",
+    " Add business type named Test.",
+    "2017-03-02 16:44:28"
+]
+,[
+    "Admin, Admin",
+    " Add User named .",
+    "2017-03-02 16:44:43"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-02 16:44:48"
+]
+,[
+    "Test, Test",
+    " Logged in to set Account.",
+    "2017-03-02 16:44:56"
+]
+,[
+    "Test, Test",
+    " Logged out Account was set.",
+    "2017-03-02 16:45:21"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-03-02 16:45:27"
+]
+,[
+    "Test, Test",
+    " Logged out.",
+    "2017-03-02 16:45:36"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-02 17:32:35"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-03-02 17:36:21"
+]
+,[
+    "Test, Test",
+    " Logged out.",
+    "2017-03-02 18:29:31"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-03-02 19:24:01"
+]
+,[
+    "Test, Test",
+    " Add product\/services named sssss.",
+    "2017-03-02 19:24:20"
+]
+,[
+    "Test, Test",
+    " Add Company named ssss.",
+    "2017-03-02 19:24:36"
+]
+,[
+    "Test, Test",
+    " Add Branch named ssxx.",
+    "2017-03-02 19:24:55"
+]
+,[
+    "Test, Test",
+    " Add Branch named ssxx.",
+    "2017-03-02 19:25:24"
+]
+,[
+    "Test, Test",
+    " Add Branch named ssxx.",
+    "2017-03-02 19:32:02"
+]
+,[
+    "Test, Test",
+    " Add product category named Category Red.",
+    "2017-03-02 19:35:22"
+]
+,[
+    "Test, Test",
+    " Add product category named Category Yellow.",
+    "2017-03-02 19:35:31"
+]
+,[
+    "Test, Test",
+    " Add product category named Category Blue.",
+    "2017-03-02 19:35:39"
+]
+,[
+    "Test, Test",
+    " Add product category named Category Test.",
+    "2017-03-02 19:35:51"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Red Bars.",
+    "2017-03-02 19:36:03"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Red Mouse.",
+    "2017-03-02 19:36:10"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Red Lace.",
+    "2017-03-02 19:36:18"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Yellow Bars.",
+    "2017-03-02 19:36:26"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Yellow Finger.",
+    "2017-03-02 19:36:36"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Blue Bars.",
+    "2017-03-02 19:36:42"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Blue Core.",
+    "2017-03-02 19:36:49"
+]
+,[
+    "Test, Test",
+    " Update product sub category ID 5.",
+    "2017-03-02 19:37:26"
+]
+,[
+    "Test, Test",
+    " Add product sub category named Red Cake.",
+    "2017-03-02 19:44:31"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-03 15:12:48"
+]
+,[
+    "Admin, Admin",
+    " Update Branch ID 1.",
+    "2017-03-03 15:13:40"
+]
+,[
+    "Admin, Admin",
+    " Update Branch ID 1.",
+    "2017-03-03 15:14:33"
+]
+,[
+    "Admin, Admin",
+    " Update Branch ID 1.",
+    "2017-03-03 15:14:45"
+]
+,[
+    "Admin, Admin",
+    " Update Branch ID 1.",
+    "2017-03-03 15:14:52"
+]
+,[
+    "Admin, Admin",
+    " Update Branch ID 1.",
+    "2017-03-03 15:18:37"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-03 15:18:57"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-03 15:19:04"
+]
+,[
+    "Admin, Admin",
+    " Update Branch ID 1.",
+    "2017-03-03 15:19:15"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-03 16:05:19"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-04 11:28:01"
+]
+,[
+    "Admin, Admin",
+    " Update product category ID 1.",
+    "2017-03-04 11:28:21"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-04 11:28:24"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-04 11:29:06"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-04 11:29:47"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-09 11:06:20"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-09 11:08:21"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 09:38:36"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-10 10:45:25"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 10:46:09"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 13:09:21"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 13:16:11"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 13:28:56"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 13:48:51"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 13:57:00"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 14:03:11"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 14:33:09"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 14:37:09"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 14:50:19"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 14:56:27"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 15:38:05"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 16:35:59"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 16:48:13"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-10 16:49:20"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 16:49:32"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 16:57:19"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 17:01:35"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 17:07:00"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-10 17:11:04"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 17:11:05"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 17:15:10"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-10 17:23:49"
+]
+,[
+    "Admin, Admin",
+    " Logged in.",
+    "2017-03-13 12:20:45"
+]
+,[
+    "Admin, Admin",
+    " Logged out.",
+    "2017-03-13 12:25:25"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 13:31:28"
+]
+,[
+    "Test, Test",
+    " Logged out.",
+    "2017-05-04 13:33:37"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 13:34:51"
+]
+,[
+    "Test, Test",
+    " Logged out.",
+    "2017-05-04 13:35:08"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 13:37:03"
+]
+,[
+    "Test, Test",
+    " Logged out.",
+    "2017-05-04 13:40:32"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 13:41:55"
+]
+,[
+    "Test, Test",
+    " Logged out.",
+    "2017-05-04 13:42:23"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 13:42:28"
+]
+,[
+    "Test, Test",
+    " Logged out.",
+    "2017-05-04 13:50:34"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 13:50:37"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 14:06:05"
+]
+,[
+    "Test, Test",
+    " Logged in.",
+    "2017-05-04 14:21:19"
+]
+	]
+}

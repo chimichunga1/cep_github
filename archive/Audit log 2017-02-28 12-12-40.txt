@@ -1,0 +1,1549 @@
+{
+    "data": [
+        [
+            "NONE",
+            "INITIAL START UP",
+            "2017-01-31 15:18:29"
+        ]
+   ,[
+    ", ",
+    " Archived the audit logs.",
+    "2017-01-31 15:18:29"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-15 11:34:49"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-15 11:34:55"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-15 11:34:57"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-15 11:35:19"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-15 16:38:47"
+]
+,[
+    "Molina, Eom",
+    " Add Warranty no 1347.",
+    "2017-02-15 16:41:30"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-15 16:46:03"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-15 16:46:16"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 10:56:53"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-16 10:57:01"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-16 10:57:09"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 11:24:35"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 13:12:36"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 14:18:37"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 14:50:21"
+]
+,[
+    "Molina, Eom",
+    " Add User named .",
+    "2017-02-16 14:50:42"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-16 14:50:50"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 14:51:22"
+]
+,[
+    "Molina, Eom",
+    " Update User ID .",
+    "2017-02-16 14:51:49"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-16 14:52:44"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 15:20:12"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 15:43:28"
+]
+,[
+    "Molina, Eom",
+    " Update User ID .",
+    "2017-02-16 15:46:00"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-16 15:47:25"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged in to set Account.",
+    "2017-02-16 15:47:37"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged out Account was set.",
+    "2017-02-16 15:48:36"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged in.",
+    "2017-02-16 15:48:53"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged out.",
+    "2017-02-16 15:52:18"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 15:52:23"
+]
+,[
+    "Molina, Eom",
+    " Update User ID .",
+    "2017-02-16 15:54:23"
+]
+,[
+    "Molina, Eom",
+    " Update User ID .",
+    "2017-02-16 15:54:39"
+]
+,[
+    "Molina, Eom",
+    " Update User ID .",
+    "2017-02-16 15:56:47"
+]
+,[
+    "Molina, Eom",
+    " Update User ID .",
+    "2017-02-16 15:58:39"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 16:55:02"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 16:59:57"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-16 17:13:12"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-16 17:13:15"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 09:16:15"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 09:22:32"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 09:33:33"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-17 09:33:42"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 09:33:44"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 09:39:37"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 09:46:44"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 09:54:16"
+]
+,[
+    "Molina, Eom",
+    " Add Branch named t.",
+    "2017-02-17 10:04:40"
+]
+,[
+    "Molina, Eom",
+    " Update Branch ID 6.",
+    "2017-02-17 10:04:49"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 10:10:18"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 10:16:27"
+]
+,[
+    "Molina, Eom",
+    " Add Product named r.",
+    "2017-02-17 10:17:28"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 10:26:50"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 10:33:30"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 10:54:07"
+]
+,[
+    "Molina, Eom",
+    " Add Product named 123.",
+    "2017-02-17 10:54:29"
+]
+,[
+    "Molina, Eom",
+    " Add Product named dwdw`.",
+    "2017-02-17 10:55:00"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 11:01:28"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 11:20:10"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 11:27:53"
+]
+,[
+    "Molina, Eom",
+    " Add User named .",
+    "2017-02-17 11:31:53"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 12:06:26"
+]
+,[
+    "Molina, Eom",
+    " Add User named .",
+    "2017-02-17 12:12:29"
+]
+,[
+    "Molina, Eom",
+    " Update User ID .",
+    "2017-02-17 12:13:31"
+]
+,[
+    "Molina, Eom",
+    " Add Product named test.",
+    "2017-02-17 12:18:15"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 12:54:42"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 13:00:50"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 13:10:18"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-17 13:13:00"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged in.",
+    "2017-02-17 13:13:16"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged out.",
+    "2017-02-17 13:13:33"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 13:14:44"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 13:22:35"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 13:42:27"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 13:51:28"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 14:07:27"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 14:28:04"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 15:14:35"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 15:19:12"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 15:26:36"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 15:41:28"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 15:53:22"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 16:48:45"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 16:54:16"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 17:00:57"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-17 17:07:45"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-18 16:29:51"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-18 16:36:03"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-18 17:12:35"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-18 17:17:59"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 08:43:25"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 08:57:37"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 09:11:50"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 09:13:49"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-20 09:14:13"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-20 09:14:27"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-20 09:14:44"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-20 09:20:53"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-20 09:20:57"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-20 09:21:02"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-20 09:23:39"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged in.",
+    "2017-02-20 09:23:47"
+]
+,[
+    "Malunes, Jeselle",
+    " Logged out.",
+    "2017-02-20 09:24:59"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 09:25:04"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 09:31:34"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 09:59:00"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 10:09:38"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 10:23:40"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 10:44:57"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 10:48:52"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 10:53:31"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 11:01:28"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 11:40:39"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 11:48:53"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 12:06:21"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 12:13:11"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 12:20:23"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 12:39:02"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 12:56:47"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 13:04:53"
+]
+,[
+    "Molina, Eom",
+    " Update Product ID 3.",
+    "2017-02-20 13:27:04"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 13:51:13"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 13:53:01"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-20 13:53:12"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-20 13:54:07"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 13:54:11"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 13:58:13"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 13:58:14"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 13:59:33"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-20 13:59:38"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-20 14:00:47"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 14:00:53"
+]
+,[
+    "Molina, Eom",
+    " Update Warranty ID 3.",
+    "2017-02-20 14:01:45"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 14:09:30"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 14:52:29"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 15:22:01"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 15:46:21"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-20 15:46:28"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-20 15:50:44"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 15:50:47"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 15:55:10"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 16:21:38"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 16:31:00"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-20 16:31:11"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-20 16:32:38"
+]
+,[
+    "Molina, Weng",
+    " Logged in.",
+    "2017-02-20 16:32:44"
+]
+,[
+    "Molina, Weng",
+    " Logged out.",
+    "2017-02-20 16:32:56"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 16:32:58"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 16:35:10"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-20 16:35:17"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-20 16:35:25"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 16:35:27"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-20 16:56:56"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 16:59:36"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-20 17:29:57"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-21 08:00:34"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-21 08:07:47"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-21 08:18:54"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-21 10:13:26"
+]
+,[
+    "Molina, Eom",
+    " Add Product named Floral Longsleeves.",
+    "2017-02-21 10:15:29"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-21 11:14:13"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-21 12:31:45"
+]
+,[
+    "Molina, Eom",
+    " Add Product named Milo.",
+    "2017-02-21 12:32:59"
+]
+,[
+    "Molina, Eom",
+    " Add Warranty no 000000-001.",
+    "2017-02-21 12:37:24"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-21 12:37:45"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 12:37:52"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 12:37:58"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-21 12:38:03"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-21 12:39:57"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 12:39:59"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 12:40:15"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-21 12:40:25"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 12:45:36"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 12:45:40"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-21 12:45:43"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 13:20:29"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 13:57:13"
+]
+,[
+    "Molina, Robertos",
+    " Update Product ID 3.",
+    "2017-02-21 13:59:07"
+]
+,[
+    "Molina, Robertos",
+    " Update Product ID 3.",
+    "2017-02-21 13:59:52"
+]
+,[
+    "Molina, Robertos",
+    " Add Warranty no 100000-024.",
+    "2017-02-21 14:01:45"
+]
+,[
+    "Molina, Robertos",
+    " Update Warranty ID 4.",
+    "2017-02-21 14:02:42"
+]
+,[
+    "Molina, Robertos",
+    " Add Branch named Batangas.",
+    "2017-02-21 14:04:26"
+]
+,[
+    "Molina, Robertos",
+    " Add Warranty no 120000-021.",
+    "2017-02-21 14:06:35"
+]
+,[
+    "Molina, Robertos",
+    " Update Warranty ID 1.",
+    "2017-02-21 14:07:02"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 14:27:35"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 14:46:09"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 14:55:56"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 14:56:52"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 14:59:07"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 14:59:12"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:01:12"
+]
+,[
+    "Molina, Robertos",
+    " Add Product named Vodka.",
+    "2017-02-21 15:02:44"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 15:02:56"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-21 15:03:13"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-21 15:07:26"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:07:28"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 15:10:18"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:13:07"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 15:13:11"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-21 15:13:17"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:30:53"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:38:14"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 15:38:27"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-21 15:38:32"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:45:22"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:50:37"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-21 15:50:58"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-21 15:51:08"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-21 15:51:38"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:51:43"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 15:58:43"
+]
+,[
+    "Molina, Robertos",
+    " Update Branch ID 6.",
+    "2017-02-21 16:02:58"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 16:11:49"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 16:29:34"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 16:42:26"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 16:52:37"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 16:55:46"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 16:59:47"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-21 17:06:03"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 10:16:32"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 10:41:12"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 10:50:23"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 10:56:43"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 11:04:58"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 11:49:19"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 12:10:51"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 12:14:57"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 12:20:16"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 12:42:18"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-22 12:54:36"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-22 12:54:52"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:37:53"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-22 14:37:56"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:39:38"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-22 14:41:26"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:41:27"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-22 14:41:50"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:41:51"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-22 14:44:51"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:44:52"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-22 14:45:59"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:46:00"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-22 14:46:44"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:46:45"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 14:59:22"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-22 15:04:06"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-23 08:50:32"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-23 08:50:35"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 09:38:58"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 09:43:45"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 09:46:09"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 09:46:15"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 09:55:55"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 09:56:03"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 09:56:08"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no wetertfwrsr.",
+    "2017-02-28 10:03:34"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no wetertfwrsr.",
+    "2017-02-28 10:03:58"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no wetertfwrsr.",
+    "2017-02-28 10:04:39"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no wetertfwrsr.",
+    "2017-02-28 10:04:53"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no wetertfwrsr.",
+    "2017-02-28 10:06:03"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no wetertfwrsr.",
+    "2017-02-28 10:06:21"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no testas.",
+    "2017-02-28 10:12:16"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no testass.",
+    "2017-02-28 10:19:50"
+]
+,[
+    "Alemania, Jordan",
+    " Add Warranty no testass.",
+    "2017-02-28 10:21:09"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 10:27:03"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 10:42:41"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 10:43:34"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-28 10:43:52"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-28 10:46:02"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 10:46:22"
+]
+,[
+    "Molina, Eom",
+    " Logged out.",
+    "2017-02-28 10:46:25"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 10:49:57"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 10:50:16"
+]
+,[
+    "Molina, Eom",
+    " Logged in.",
+    "2017-02-28 10:51:42"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-28 11:01:27"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-28 11:02:54"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-28 11:03:14"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-28 11:03:19"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-28 11:06:06"
+]
+,[
+    "Molina, Robertos",
+    " Add Company named Test123.",
+    "2017-02-28 11:15:34"
+]
+,[
+    "Molina, Robertos",
+    " Update Company ID 6.",
+    "2017-02-28 11:16:24"
+]
+,[
+    "Molina, Robertos",
+    " Add Branch named Tektite.",
+    "2017-02-28 11:24:12"
+]
+,[
+    "Molina, Robertos",
+    " Update Branch ID 6.",
+    "2017-02-28 11:24:38"
+]
+,[
+    "Molina, Robertos",
+    " Add Product named beach shorts.",
+    "2017-02-28 11:31:51"
+]
+,[
+    "Molina, Robertos",
+    " Update Product ID 3.",
+    "2017-02-28 11:33:30"
+]
+,[
+    "Molina, Robertos",
+    " Add Warranty no 12345b.",
+    "2017-02-28 11:42:27"
+]
+,[
+    "Molina, Robertos",
+    " Update Warranty ID 3.",
+    "2017-02-28 11:44:19"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-28 11:51:01"
+]
+,[
+    "Molina, Robertos",
+    " Update Warranty ID 3.",
+    "2017-02-28 11:51:42"
+]
+,[
+    "Molina, Robertos",
+    " Add User named .",
+    "2017-02-28 11:54:30"
+]
+,[
+    "Molina, Robertos",
+    " Add User named .",
+    "2017-02-28 11:55:05"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-28 11:56:25"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-28 11:56:46"
+]
+,[
+    "Molina, Robertos",
+    " Logged out.",
+    "2017-02-28 11:56:55"
+]
+,[
+    "Alemania, Jordan",
+    " Logged in.",
+    "2017-02-28 11:57:04"
+]
+,[
+    "Alemania, Jordan",
+    " Logged out.",
+    "2017-02-28 11:57:36"
+]
+,[
+    "Molina, Robertos",
+    " Logged in.",
+    "2017-02-28 11:57:50"
+]
+,[
+    "Molina, Robertos",
+    " Update User ID .",
+    "2017-02-28 11:58:07"
+]
+,[
+    "Molina, Robertos",
+    " Add business type named Test.",
+    "2017-02-28 12:01:12"
+]
+,[
+    "Molina, Robertos",
+    " Update business type ID 6.",
+    "2017-02-28 12:01:38"
+]
+,[
+    "Molina, Robertos",
+    " Add product\/services named Sample.",
+    "2017-02-28 12:03:13"
+]
+,[
+    "Molina, Robertos",
+    " Add product\/services named Sample1.",
+    "2017-02-28 12:03:25"
+]
+,[
+    "Molina, Robertos",
+    " Update product\/services ID 9.",
+    "2017-02-28 12:03:43"
+]
+,[
+    "Molina, Robertos",
+    " Update product\/services ID 9.",
+    "2017-02-28 12:04:08"
+]
+,[
+    "Molina, Robertos",
+    " Add product category named Test.",
+    "2017-02-28 12:05:33"
+]
+,[
+    "Molina, Robertos",
+    " Update product category ID 6.",
+    "2017-02-28 12:06:01"
+]
+,[
+    "Molina, Robertos",
+    " Add product sub category named Polo.",
+    "2017-02-28 12:09:06"
+]
+,[
+    "Molina, Robertos",
+    " Update product sub category ID 13.",
+    "2017-02-28 12:09:40"
+]
+,[
+    "Molina, Robertos",
+    " Update account setting ID 2.",
+    "2017-02-28 12:12:22"
+]
+	]
+}
